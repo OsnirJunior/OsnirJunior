@@ -2,7 +2,7 @@
 - 👀 I’m interested in programas
 - 🌱 I’m currently learning inglês
 - 💞️ I’m looking to collaborate on Ninguém
-- 📫 How to reach meNão reach me
+- 📫 How to reach me Não reach me
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Já fiz gol de bicicleta
 
