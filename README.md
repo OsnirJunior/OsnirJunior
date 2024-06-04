@@ -8,4 +8,4 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,C++&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,cpp&theme=dark)](https://skillicons.dev)
