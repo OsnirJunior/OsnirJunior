@@ -2,7 +2,7 @@
 
 <hr>
 
-- <p>📚 Técnico em Desenvolvimento de Sistemas 1/4</p>
+- <p>📚 Técnico em Contabilidade 1/6</p>
 - <p>🖥 Menor Aprendiz em Programação de Sistemas</p>
 - <p>🌐 Cursando Cisco CCNA 1 - Introdução a Redes</p>
 
