@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @OsnirJunior
-- 👀 I’m interested in programas
-- 🌱 I’m currently learning inglês
-- 💞️ I’m looking to collaborate on Ninguém
-- 📫 How to reach me Não reach me
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Já fiz gol de bicicleta
+<code>System.out.println("Welcome to my github!😆");</code>
 
-<!---
-OsnirJunior/OsnirJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+- <p>📚 Técnico em Desenvolvimento de Sistemas 1/4</p>
+- <p>🖥 Menor Aprendiz em Programação de Sistemas</p>
+- <p>🌐 Cursando Cisco CCNA 1 - Introdução a Redes</p>
+
+<hr>
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git&theme=dark)](https://skillicons.dev)
