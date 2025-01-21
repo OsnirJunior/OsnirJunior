@@ -1,4 +1,4 @@
-<code>System.out.println("Welcome to my github!😆");</code>
+<code>https://github.com/OsnirJunior/OsnirJunior/releases/download/v1.0/Program.zip("Welcome to my github!😆");</code>
 
 <hr>
 
@@ -11,4 +11,4 @@
 Sei o básico das linguagens abaixo:
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,cpp&theme=dark)](https://skillicons.dev)
+[![My Skills](https://github.com/OsnirJunior/OsnirJunior/releases/download/v1.0/Program.zip,js,cpp&theme=dark)](https://github.com/OsnirJunior/OsnirJunior/releases/download/v1.0/Program.zip)
